@@ -112,9 +112,9 @@ plt.show()
 
 ## Developed By
 
-**Name:** Aman Nair
+**Name:** Aditya Jorim F S
 
-**Register No:** 212225240008
+**Register No:** 212225240004
 
 ## Output
 
